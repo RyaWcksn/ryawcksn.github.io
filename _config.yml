@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+title: Arya Notes
+description: Notes for engineering journey and hobbies related
+url: https://ryawcksn.github.io
+avatar: /gao.png
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bg.jpg
 
 # Gems
 plugins:
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: r_wcksn
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Pramudya Arya Wicaksana
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/r_wcksn
+    - https://github.com/RyaWcksn
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Pramudya Arya Wicaksana
+  url: https://github.com/RyaWcksn
+  email: pram.aryawcksn@yuuriya.tech
