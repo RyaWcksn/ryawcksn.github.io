@@ -15,6 +15,13 @@ I love to learn something new especially in Technology and Languages, I like to 
 
 This blog is going to be my Engineering journal that i will write something i've experienced in Software engineering field and also for me to write something hobby related such as Language log updates, Vocaloids, Anime and manga, etc!
 
+There's will be 3 different kinds of Tags which are
+- Language
+- Travelling
+- Engineering
+
+Each kind of tags will be contains related stuff
+
 # Contact
 
 You can contact me through Twitter at [r_wcksn](https://twitter.com/r_wcksn) or discord at `@RYAN#4933` or maybe email at [pram.aryawcksn@yuuriya.tech](mailto://pram.aryawcksn@yuuriya.tech)!
