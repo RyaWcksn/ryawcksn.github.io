@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "All hail open source apps!"
+title:  "All hail open source apps! <1>"
 date:   2022-10-16 19:54 +0700
 tags: ["engineering"]
 categories: engineering
@@ -25,6 +25,8 @@ There's plenty of open source app out there but i will write down the best apps 
 Let's start from Android apps, first of all why i'm using Android instead of iOS? the answer is simple Android kernel based on Linux yet Android is an open source OS that you can do basically anything on it, contrary with iOS that close source OS
 
 Enough with OS argument, let's continue with the apps
+
+All of the apps can be found here [F-Droid](https://f-droid.org/)
 
 ### 1. Browser
 
@@ -61,3 +63,29 @@ Keyboard is one of many vital apps on Android yet the most dangerous app, defaul
 - Floris keyboard
 
 Floris keyboard is a open source keyboard that doesn't record what you type and respect user privacy, it's still on development so not so many language available on this keyboard, other than that, some suggestion feature also isn't available yet on this keyboard, but it's worth to try, you can see the source code at [Github](https://github.com/florisboard/florisboard)
+
+### 5. Password management
+
+Everyone needs secure password to prevent any data breach or something unwanted, yet strong password isn't enough to prevent that scenario beacause of that there's an app called Password manager to make sure your password keep safe and sound, it's pain in the ass when you have to remember bunch of complicated password for each account you have, so here's best password manager i've ever tried
+
+- KeePassDX
+
+KeePassDX is an free secure open source app that save your password database inside your phone and not rely to any third party cloud service, so it's very secure since it doesn't use any third party apps, with a feature of OTP manager, auto fill, and biometric recognition, the codebase can be seen at [Github](https://github.com/Kunzisoft/KeePassDX)
+
+- Aegis
+
+Search for alternative yet free and open source of Google Authenticator? Aegis is the answer! Aegis Authenticator is a free, secure and open source 2FA app for Android. It aims to provide a secure authenticator for your online services, while also including some features missing in existing authenticator apps, like proper encryption and backups. Aegis supports HOTP and TOTP, making it compatible with thousands of services, backed with AES-256-GCM makes your OTP password secure, here's the codebase [Github](https://github.com/beemdevelopment/Aegis)
+
+### 6. Download client
+
+Secure download client is a must, here's download client i recommend
+
+- Download navi
+
+Download navi is Free and Open Source software download manager that can support multi part downloading, built in browser, browser support, with material design, here's the code [Github](https://github.com/TachibanaGeneralLaboratories/download-navi)
+
+- Aria2APp
+
+Aria2App is an advanced download manager based on aria2 that can handle remote servers too, my daily torrent client with Aria2 system, code base [Github](https://github.com/devgianlu/Aria2App)
+
+That's all of my daily basics use of open source app on my Android phone, yet i'm still use serveral close source app like messaging app and few apps that require google client, so next part is FLOSS apps that i have on my laptop
